@@ -1,0 +1,9 @@
+Joueur1:619
+Ordinateur4:546
+Ordinateur1:515
+Mopiu:104
+Gedeon:65
+Omar:64
+Lolin:30
+Julie:20
+Gabriel:19

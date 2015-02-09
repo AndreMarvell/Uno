@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="controleur/|modele/|vue/|vue/images/|vue/images/cards/|images/|images/cards/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/controleur"/>
+	<classpathentry kind="src" path="src/modele"/>
+	<classpathentry excluding="images/cards/" kind="src" path="src/vue"/>
+	<classpathentry excluding="cards/" kind="src" path="src/images"/>
+	<classpathentry kind="src" path="src/images/cards"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="library/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="library/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="library/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="library/swing-worker-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
