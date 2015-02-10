@@ -5,6 +5,7 @@ Conception du jeu de carte Uno en Java. Programmation du moteur de jeu et réali
 
 * Jeu Multi-Joueur (2 à 10 joueurs)
 * Choix du nombre de joueurs virtuels
+* Stratégies de jeu pour le joueur virtuel (Agressif, Passif, ...)
 * Meilleurs Scores
 * Sauvegarde de parties
 * Règles classiques du jeu
